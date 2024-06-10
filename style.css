@@ -1,6 +1,28 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
+    background-color: rgb(20, 12, 54);
     color: white;
     padding: 128px 16px;
+    text-align: center;
 }
+
+
+
+.sources-links {
+    font-weight: bold; 
+    background-color: rgb(159, 173, 255);
+}
+
+.spotify-img {
+    display:block;
+    width: 40%;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.section {
+    text-align: center;
+    font-size:larger;
+}
+
